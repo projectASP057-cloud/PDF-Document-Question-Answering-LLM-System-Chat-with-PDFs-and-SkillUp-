@@ -8,4 +8,5 @@ faiss-cpu>=1.7.4
 nest-asyncio>=1.5.8
 google-generativeai>=0.3.2
 
-# use pip install -r requirements.txt
+# use: pip install -r requirements.txt
+# if not working then use: pip install streamlit python-dotenv pdfplumber PyPDF2 langchain langchain-google-genai faiss-cpu nest-asyncio google-generativeai
